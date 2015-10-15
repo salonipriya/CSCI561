@@ -1,0 +1,3936 @@
+264
+UCS
+A
+E G H N K L I
+B C D M F J
+13
+A B 2 0
+A C 30 0
+A D 15 0
+A M 30 0
+B E 100 0
+B F 4 1 0-1
+C N 5 0
+D J 1 0
+M I 5 0
+F G 6 0
+F H 200 0
+J K 300 0
+J L 400 0
+22
+
+UCS
+A
+B C D
+E F G H I
+5
+A B 12 0
+A E 3 0 9-10
+E H 2 1 6-7
+H D 5 2 5-6 2-3
+I C 6 1 10-14
+3
+
+UCS
+S
+G
+A C B D E F
+11
+S A 3 0
+S C 2 0
+A B 1 0
+C A 1 0
+B A 2 0
+C D 5 0
+D E 5 0
+E F 5 0
+F G 5 0
+B G 1 0
+B C 2 0
+0
+
+UCS
+S
+G
+A C B D E F
+9
+S A 1 0
+S C 5 0
+A B 1 0
+B C 1 0
+C D 5 0
+D E 5 0
+E F 5 0
+F G 5 0
+B G 100 0
+0
+
+UCS
+A
+B C D
+E F G H I
+5
+A B 12 0
+A E 3 3 2-4 1-5 9-10
+E H 2 1 1-2
+H D 5 2 5-6 2-3
+I C 6 1 10-14
+3
+
+UCS
+P
+Q R
+L M N O
+5
+P L 10 0
+P N 5 2 3-4 6-9
+M Q 8 1 4-6
+O R 3 0
+N M 5 1 1-2
+5
+
+UCS
+AA
+BA
+CA DA
+3
+AA BA 10 1 1-2
+AA CA 2 2 3-4 5-6
+CA BA 4 0
+0
+
+BFS
+A
+B C D
+E F G H I
+5
+A B 12 0
+A E 3 3 2-4 1-5 9-10
+E H 2 1 1-2
+H D 5 2 5-6 2-3
+I C 6 1 10-14
+3
+
+UCS
+A
+E
+D C B F G
+11
+A C 1 0
+A B 1 0
+B C 1 0
+B F 1 0
+B A 1 0
+B G 1 0
+C D 1 0
+D G 1 0
+D B 1 0
+E D 1 0
+G F 1 0
+0
+
+BFS
+A
+E G
+D C B F
+13
+A C 1 0
+A B 1 0
+B C 1 0
+B F 1 0
+B A 1 0
+B G 1 0
+B E 1 0
+C D 1 0
+C E 1 0
+D G 1 0
+D B 1 0
+E D 1 0
+G F 1 0
+0
+
+BFS
+A
+B C D
+E F G H I
+5
+A B 12 0
+A E 3 3 2-4 1-5 9-10
+E H 2 1 1-2
+H D 5 2 5-6 2-3
+I C 6 1 10-14
+3
+
+BFS
+S
+G1 G2 G3
+A B C D E F
+12
+S A 3 0
+S B 1 0
+S C 2 0
+A G1 10 0
+A E 7 0
+B C 1 0
+B F 2 0
+C G3 11 0
+D S 2 0
+D G2 5 0
+E G1 2 0
+F D 1 0
+0
+
+UCS
+S
+G
+A B
+4
+S A 2 0
+S B 1 0
+B G 1 1 1-2
+A B 2 0
+0
+
+BFS
+A
+K H C
+E F D G
+7
+A E 2 0
+F G 2 0
+A F 2 0
+E D 2 0
+F C 2 0
+E H 2 0
+A K 2 0
+3
+
+BFS
+A
+H
+E F D G K C
+7
+A E 2 0
+F G 2 0
+A F 2 0
+E D 2 0
+F C 2 0
+E H 2 0
+A K 2 0
+3
+
+BFS
+S
+G1 G2 G3
+A B C D F E
+14
+S A 2 0
+S B 2 0
+S C 2 0
+A E 2 0
+A G1 2 0
+E G1 2 0
+B F 2 0
+B C 2 0
+D S 2 0
+D B 2 0
+D G2 2 0
+F D 2 0
+C G3 2 0
+G3 F 2 0
+5
+
+UCS
+AA
+BA
+CA DA
+5
+AA BA 10 1 1-2
+AA CA 2 2 3-4 5-6
+AA DA 4 0
+CA BA 3 0
+DA BA 2 0
+0
+
+UCS
+S
+G
+A B C D E G
+8
+S A 1 0
+S B 5 0
+S C 8 0
+A D 3 0
+A E 7 0
+A G 9 0
+B G 4 0
+C G 5 0
+8
+
+UCS
+S
+G
+A B C D E F
+9
+S A 1 0
+A B 1 0
+S C 5 0
+B C 1 0
+B G 100 0
+C D 5 0
+D E 5 0
+E F 5 0
+F G 5 0
+0
+
+UCS
+S
+G
+A B C D E
+6
+S A 2 0
+S B 1 0
+B G 1 1 1-3
+E G 2 0
+B E 100 0
+A B 2 0
+0
+
+UCS
+A
+E G H N K L I
+B C D M F J
+13
+A B 2 0
+A C 30 0
+A D 15 0
+A M 30 0
+B E 100 0
+B F 4 1 0-1
+C N 5 0
+D J 1 0
+M I 5 0
+F G 6 0
+F H 200 0
+J K 300 0
+J L 400 0
+23
+
+DFS
+P
+Q L
+L M N O
+5
+P L 10 0
+P N 5 2 3-4 6-9
+M Q 8 1 4-6
+O R 3 0
+N M 5 1 1-2
+5
+
+BFS
+S
+D X
+A B C D Y
+6
+S A 2 0
+S B 3 0
+A X 2 0
+A Y 2 0
+B C 2 0
+B D 2 0
+10
+
+BFS
+A
+G
+B
+2
+A B 1 1 0-1
+A G 1 0
+23
+
+BFS
+VANNILLA
+GOOSE
+BOB
+2
+VANNILLA BOB 1 1 0-1
+VANNILLA GOOSE 1 1 0-1
+23
+
+BFS
+VANNILLA
+GOOSE
+BOB
+2
+VANNILLA BOB 1 1 0-1
+VANNILLA GOOSE 1 1 0-1
+0
+
+BFS
+A
+O
+B C H G M N
+11
+A B 1 0
+A C 2 0
+B C 3 0
+C G 4 0
+C H 1 0
+G H 5 0
+H M 6 0
+H A 7 0
+H N 8 0
+M O 9 0
+N O 10 0
+3
+
+BFS
+A
+E G
+D C B F
+13
+A C 1 0
+A B 1 0
+B C 1 0
+B F 1 0
+B A 1 0
+B G 1 0
+B E 1 0
+C D 1 0
+C E 1 0
+D G 1 0
+D B 1 0
+E D 1 0
+G F 1 0
+0
+
+BFS
+A
+B C D
+E F G H I
+5
+A B 12 0
+A E 3 3 2-4 1-5 9-10
+E H 2 1 1-2
+H D 5 2 5-6 2-3
+I C 6 1 10-14
+3
+
+BFS
+S
+G1 G2 G3
+A B C D E F
+12
+S A 3 0
+S B 1 0
+S C 2 0
+A G1 10 0
+A E 7 0
+B C 1 0
+B F 2 0
+C G3 11 0
+D S 2 0
+D G2 5 0
+E G1 2 0
+F D 1 0
+0
+
+BFS
+A
+E G H N K L I
+B C D M F J
+13
+A B 2 0
+A C 30 0
+A D 15 0
+A M 30 0
+B E 100 0
+B F 4 1 0-1
+C N 5 0
+D J 1 0
+M I 5 0
+F G 6 0
+F H 200 0
+J K 300 0
+J L 400 0
+22
+
+BFS
+A
+C D
+B E F G H I
+5
+A B 12 0
+A E 3 3 2-4 1-5 9-10
+E H 2 1 1-2
+H D 5 2 5-6 2-3
+I C 6 1 10-14
+3
+
+BFS
+S
+D Z
+A B Y E
+6
+S A 1 0
+S B 1 0
+A Z 1 0
+A Y 1 0
+B D 1 0
+B E 1 0
+0
+
+BFS
+A
+C D
+E F G H I B
+6
+A B 12 0
+A E 3 3 2-4 1-5 9-10
+E H 2 1 1-2
+H D 5 2 5-6 2-3
+I C 6 1 10-14
+B C 12 0
+3
+
+BFS
+A
+C D
+E F G H I B
+5
+A B 12 0
+A E 3 3 2-4 1-5 9-10
+E H 2 1 1-2
+H D 5 2 5-6 2-3
+I C 6 1 10-14
+3
+
+BFS
+A
+F
+D B C E
+6
+A B 1 0
+A C 1 0
+A D 1 0
+B E 1 0
+B F 1 0
+C F 1 0
+19
+
+BFS
+A
+D F
+D B C E H
+6
+A B 1 5 1-2 2-3 3-4 1-7 11-12
+A C 7 0
+A D 23 0
+B E 12 0
+B F 19 0
+C F 3 0
+13
+
+BFS
+S
+G1 G2 G3
+A B C D E F G
+14
+S A 3 0
+S B 1 0
+S C 5 0
+A E 7 0
+A G1 10 0
+B C 2 0
+B F 2 0
+C G3 11 0
+D S 6 0
+D G2 5 0
+E G1 2 0
+F D 1 0
+D B 4 0
+G3 F 0 0
+22
+
+BFS
+S
+G2 G3
+A B C D E F G1
+14
+S A 3 0
+S B 1 0
+S C 5 0
+A E 7 0
+A G1 10 0
+B C 2 0
+B F 2 0
+C G3 11 0
+D S 6 0
+D G2 5 0
+E G1 2 0
+F D 1 0
+D B 4 0
+G3 F 0 0
+17
+
+BFS
+A
+D F G
+B C D E F
+10
+A B 12 0
+A C 12 0
+B D 12 0
+B E 12 0
+A D 12 0
+A E 12 0
+D E 12 0
+C F 12 0
+C G 12 0
+F G 12 0
+1
+
+DFS
+A
+E G H N K L I
+B C D M F J
+13
+A B 2 0
+A C 30 0
+A D 15 0
+A M 30 0
+B E 100 0
+B F 4 1 0-1
+C N 5 0
+D J 1 0
+M I 5 0
+F G 6 0
+F H 200 0
+J K 300 0
+J L 400 0
+22
+
+UCS
+A
+B C D
+E F G H I
+5
+A B 12 0
+A E 3 0 9-10
+E H 2 1 6-7
+H D 5 2 5-6 2-3
+I C 6 1 10-14
+3
+
+UCS
+S
+G
+A C B D E F
+11
+S A 3 0
+S C 2 0
+A B 1 0
+C A 1 0
+B A 2 0
+C D 5 0
+D E 5 0
+E F 5 0
+F G 5 0
+B G 1 0
+B C 2 0
+0
+
+UCS
+S
+G
+A C B D E F
+9
+S A 1 0
+S C 5 0
+A B 1 0
+B C 1 0
+C D 5 0
+D E 5 0
+E F 5 0
+F G 5 0
+B G 100 0
+0
+
+UCS
+A
+B C D
+E F G H I
+5
+A B 12 0
+A E 3 3 2-4 1-5 9-10
+E H 2 1 1-2
+H D 5 2 5-6 2-3
+I C 6 1 10-14
+3
+
+UCS
+P
+Q R
+L M N O
+5
+P L 10 0
+P N 5 2 3-4 6-9
+M Q 8 1 4-6
+O R 3 0
+N M 5 1 1-2
+5
+
+UCS
+AA
+BA
+CA DA
+3
+AA BA 10 1 1-2
+AA CA 2 2 3-4 5-6
+CA BA 4 0
+0
+
+DFS
+A
+B C D
+E F G H I
+5
+A B 12 0
+A E 3 3 2-4 1-5 9-10
+E H 2 1 1-2
+H D 5 2 5-6 2-3
+I C 6 1 10-14
+3
+
+UCS
+A
+E
+D C B F G
+11
+A C 1 0
+A B 1 0
+B C 1 0
+B F 1 0
+B A 1 0
+B G 1 0
+C D 1 0
+D G 1 0
+D B 1 0
+E D 1 0
+G F 1 0
+0
+
+BFS
+A
+E G
+D C B F
+13
+A C 1 0
+A B 1 0
+B C 1 0
+B F 1 0
+B A 1 0
+B G 1 0
+B E 1 0
+C D 1 0
+C E 1 0
+D G 1 0
+D B 1 0
+E D 1 0
+G F 1 0
+0
+
+BFS
+A
+B C D
+E F G H I
+5
+A B 12 0
+A E 3 3 2-4 1-5 9-10
+E H 2 1 1-2
+H D 5 2 5-6 2-3
+I C 6 1 10-14
+3
+
+BFS
+S
+G1 G2 G3
+A B C D E F
+12
+S A 3 0
+S B 1 0
+S C 2 0
+A G1 10 0
+A E 7 0
+B C 1 0
+B F 2 0
+C G3 11 0
+D S 2 0
+D G2 5 0
+E G1 2 0
+F D 1 0
+0
+
+BFS
+A
+C D
+B E F G H I
+5
+A B 12 0
+A E 3 3 2-4 1-5 9-10
+E H 2 1 1-2
+H D 5 2 5-6 2-3
+I C 6 1 10-14
+3
+
+BFS
+A
+F
+D B C E
+6
+A B 1 0
+A C 1 0
+A D 1 0
+B E 1 0
+B F 1 0
+C F 1 0
+27
+
+BFS
+A
+D F
+B C E HH
+6
+A B 1 5 1-2 2-3 3-4 1-7 11-12
+A C 7 0
+A D 23 0
+B E 12 0
+B F 19 0
+C F 3 0
+33
+
+BFS
+S
+G1 G2 G3
+A B C D E F G
+14
+S A 3 0
+S B 1 0
+S C 5 0
+A E 7 0
+A G1 10 0
+B C 2 0
+B F 2 0
+C G3 11 0
+D S 6 0
+D G2 5 0
+E G1 2 0
+F D 1 0
+D B 4 0
+G3 F 0 0
+22
+
+BFS
+S
+G2 G3
+A B C D E F G1
+14
+S A 3 0
+S B 1 0
+S C 5 0
+A E 7 0
+A G1 10 0
+B C 2 0
+B F 2 0
+C G3 11 0
+D S 6 0
+D G2 5 0
+E G1 2 0
+F D 1 0
+D B 4 0
+G3 F 0 0
+17
+
+BFS
+S
+G2
+A B C D E F G1 G3
+14
+S A 3 0
+S B 1 0
+S C 5 0
+A E 7 0
+A G1 10 0
+B C 2 0
+B F 2 0
+C G3 11 0
+D S 6 0
+D G2 5 0
+E G1 2 0
+F D 1 0
+D B 4 0
+G3 F 0 0
+17
+
+DFS
+S
+G
+A B
+4
+S A 2 0
+S B 1 0
+A B 2 0
+B G 1 1 1-2
+0
+
+DFS
+S
+G
+A B
+3
+S A 2 0
+S B 1 0
+B G 1 1 1-2
+0
+
+BFS
+A
+D
+E H F G B I C
+4
+A E 1 0
+A B 1 0
+E H 1 0
+H D 1 0
+3
+
+DFS
+A
+D
+B C F E
+5
+A B 1 0
+A C 1 0
+B D 1 0
+B E 1 0
+C F 1 0
+0
+
+DFS
+S
+G
+A B H
+4
+S A 1 0
+S B 1 0
+B A 1 0
+B H 1 0
+0
+
+BFS
+A
+O
+B C H G M N
+11
+A B 1 0
+A C 2 0
+B C 3 0
+C G 4 0
+G H 5 0
+H M 6 0
+C H 1 0
+H A 7 0
+H N 8 0
+M O 9 0
+N O 10 0
+3
+
+UCS
+A
+G F
+B C
+4
+A B 1 0
+A C 1 0
+B G 2 0
+B G 2 0
+0
+
+DFS
+A
+B
+C
+1
+A C 1 1 1-2
+0
+
+BFS
+A
+B C D
+E F G H I
+5
+A B 12 0
+A E 3 3 2-4 1-5 9-10
+E H 2 1 1-2
+H D 5 2 5-6 2-3
+I C 6 1 10-14
+3
+
+UCS
+AA
+BA
+CA DA
+3
+AA BA 10 1 1-2
+AA CA 7 2 3-4 5-6
+CA BA 4 0
+0
+
+UCS
+A
+E
+B C D
+5
+A B 3 0
+A C 2 0
+B E 1 0
+C D 2 0
+C E 1 0
+0
+
+UCS
+A
+E
+B C D
+5
+A B 3 0
+A C 2 0
+B E 1 0
+C D 2 0
+C E 1 1 3-4
+0
+
+UCS
+A
+E
+B C D
+5
+A B 3 0
+A C 2 0
+B E 1 1 4-5
+C D 2 0
+C E 1 1 3-4
+0
+
+UCS
+A
+E
+B C D
+5
+A B 3 1 2-4
+A C 2 1 2-3
+B E 1 0
+C D 2 0
+C E 1 0
+0
+
+UCS
+S
+G
+A B C D E F
+14
+S A 3 0
+S B 1 0
+S C 5 0
+A G 10 0
+A E 7 0
+E G 2 0
+B C 2 0
+B F 2 0
+C G 11 0
+G F 0 0
+D S 6 0
+F D 1 0
+D G 5 0
+D B 4 0
+0
+
+UCS
+S
+G
+A B C D E F
+14
+S A 3 0
+S B 1 0
+S C 5 0
+A G 10 0
+A E 7 0
+E G 2 0
+B C 2 0
+B F 2 1 3-4
+C G 11 0
+G F 0 0
+D S 6 0
+F D 1 0
+D G 5 0
+D B 4 0
+0
+
+UCS
+S
+G
+A B C D E F
+14
+S A 3 1 3-4
+S B 1 0
+S C 5 0
+A G 10 0
+A E 7 0
+E G 2 0
+B C 2 0
+B F 2 1 3-4
+C G 11 0
+G F 0 0
+D S 6 0
+F D 1 0
+D G 5 0
+D B 4 0
+0
+
+UCS
+S
+G
+A B C D E F
+14
+S A 3 1 3-4
+S B 1 0
+S C 5 0
+A G 10 0
+A E 7 0
+E G 2 0
+B C 2 1 3-4
+B F 2 1 3-4
+C G 11 0
+G F 0 0
+D S 6 0
+F D 1 0
+D G 5 0
+D B 4 0
+0
+
+UCS
+S
+G
+A B C D E F
+14
+S A 3 1 3-4
+S B 1 0
+S C 5 0
+A G 10 0
+A E 7 0
+E G 2 0
+B C 2 1 3-4
+B F 2 1 3-4
+C G 11 1 15-17
+G F 0 0
+D S 6 0
+F D 1 0
+D G 5 0
+D B 4 0
+0
+
+UCS
+S
+E F H
+A B C D G
+9
+S A 3 0
+S B 1 0
+S C 2 0
+A E 1 0
+C F 1 0
+E G 4 0
+E D 3 0
+C D 2 0
+D H 5 0
+0
+
+UCS
+S
+E F H
+A B C D G
+9
+S A 3 0
+S B 1 0
+S C 2 0
+A E 1 0
+C F 1 2 1-2 3-5
+E G 4 0
+E D 3 0
+C D 2 0
+D H 5 0
+0
+
+UCS
+S
+E F H
+A B C D G
+9
+S A 3 0
+S B 1 0
+S C 2 0
+A E 1 1 3-5
+C F 1 1 2-9
+E G 4 0
+E D 3 0
+C D 2 0
+D H 5 0
+0
+
+UCS
+S
+E F H
+A B C D G
+9
+S A 3 0
+S B 1 0
+S C 2 1 1-3
+A E 1 1 3-5
+C F 1 1 2-9
+E G 4 0
+E D 3 0
+C D 2 0
+D H 5 0
+0
+
+BFS
+A
+E
+B C D
+5
+A B 3 0
+A C 2 0
+B E 1 0
+C D 2 0
+C E 1 0
+0
+
+BFS
+S
+G
+A B C D E F
+14
+S A 3 0
+S B 1 0
+S C 5 0
+A G 10 0
+A E 7 0
+E G 2 0
+B C 2 0
+B F 2 0
+C G 11 0
+G F 0 0
+D S 6 0
+F D 1 0
+D G 5 0
+D B 4 0
+0
+
+UCS
+S
+G
+A B
+4
+S A 2 0
+S B 1 0
+B G 1 1 1-2
+A B 2 0
+0
+
+DFS
+P
+Q R
+A L M N O
+6
+P L 10 0
+P N 5 2 3-4 6-9
+M Q 8 1 4-6
+O R 3 0
+N M 5 1 1-2
+L A 1 0
+5
+
+BFS
+S
+K L M
+A B C D E F H I
+15
+S A 7 0
+S B 5 0
+S C 1 0
+A E 8 0
+A F 9 0
+B H 4 0
+B M 3 0
+B A 9 0
+C D 1 0
+E K 9 0
+F L 2 0
+H M 4 0
+D B 1 0
+L I 0 0
+I K 2 0
+0
+
+DFS
+S
+K L M
+A B C D E F H I
+15
+S A 7 0
+S B 5 0
+S C 1 0
+A E 8 0
+A F 9 0
+B H 4 0
+B M 3 0
+B A 9 0
+C D 1 0
+E K 9 0
+F L 2 0
+H M 4 0
+D B 1 0
+L I 0 0
+I K 2 0
+0
+
+UCS
+S
+K L M
+A B C D E F H I
+15
+S A 7 0
+S B 5 0
+S C 1 0
+A E 8 0
+A F 9 0
+B H 4 0
+B M 3 0
+B A 9 0
+C D 1 0
+E K 9 0
+F L 2 0
+H M 4 0
+D B 1 0
+L I 0 0
+I K 2 0
+0
+
+UCS
+S
+K L M
+A B C D E F H I
+15
+S A 7 0
+S B 5 0
+S C 1 0
+A E 8 0
+A F 9 0
+B H 4 0
+B M 3 0
+B A 9 0
+C D 1 0
+E K 9 0
+F L 2 0
+H M 4 0
+D B 1 1 3-4
+L I 0 0
+I K 2 0
+0
+
+UCS
+S
+K L M
+A B C D E F H I
+15
+S A 7 0
+S B 5 0
+S C 1 0
+A E 8 0
+A F 9 0
+B H 4 0
+B M 3 1 6-9
+B A 9 0
+C D 1 0
+E K 9 0
+F L 2 0
+H M 4 0
+D B 1 1 3-4
+L I 0 0
+I K 2 0
+0
+
+UCS
+S
+K L M
+A B C D E F H I
+15
+S A 7 0
+S B 5 0
+S C 1 0
+A E 1 0
+A F 9 0
+B H 4 0
+B M 3 1 6-9
+B A 9 0
+C D 1 0
+E K 1 0
+F L 2 0
+H M 4 0
+D B 1 1 3-4
+L I 0 0
+I K 2 0
+0
+
+UCS
+S
+K L M
+A B C D E F H I
+15
+S A 7 1 7-10
+S B 5 0
+S C 1 0
+A E 8 0
+A F 9 0
+B H 4 1 8-11
+B M 3 1 6-9
+B A 9 0
+C D 1 0
+E K 9 0
+F L 2 0
+H M 4 0
+D B 1 1 3-4
+L I 0 0
+I K 2 0
+0
+
+UCS
+S
+G
+A B
+4
+S A 2 0
+S B 1 0
+B G 1 1 1-2
+A B 2 0
+0
+
+UCS
+S
+G
+A B E D
+6
+S A 2 0
+S B 1 0
+B G 1 1 1-2
+E G 2 0
+B E 100 0
+A B 2 0
+0
+
+UCS
+A
+D
+B C
+4
+A B 2 0
+A C 23 0
+B C 23 0
+C D 2 1 0-2
+2
+
+UCS
+A
+D
+B C
+4
+A B 22 0
+A C 15 0
+C D 3 0
+B C 2 0
+4
+
+BFS
+A
+G
+B C
+4
+A B 1 1 3-4
+B C 1 0
+A C 2 0
+C G 6 0
+3
+
+DFS
+A
+G
+B C
+4
+A B 1 1 3-4
+B C 1 0
+A C 2 0
+C G 6 0
+3
+
+UCS
+A
+G
+B C
+4
+A B 1 1 3-4
+B c 1 0
+A C 2 0
+C G 6 0
+3
+
+DFS
+A
+F
+B C D
+6
+A B 12 0
+A F 3 3 2-4 1-5 9-10
+B C 2 1 1-2
+B F 2 1 1-2
+F D 2 1 1-2
+C F 2 0
+0
+
+DFS
+A
+C
+B F D
+5
+A B 12 0
+A C 3 3 2-4 1-5 9-10
+B C 2 1 1-2
+B D 2 1 1-2
+C F 2 1 1-2
+0
+
+DFS
+A
+F
+B C D G
+8
+A D 12 0
+A F 3 3 2-4 1-5 9-10
+D B 2 1 1-2
+D C 2 1 1-2
+D F 2 1 1-2
+F G 2 0
+C F 3 0
+B C 7 0
+0
+
+BFS
+A
+F
+B C D G
+8
+A D 12 0
+A F 3 3 2-4 1-5 9-10
+D B 2 1 1-2
+D C 2 1 1-2
+D F 2 1 1-2
+F G 2 0
+C F 3 0
+B C 7 0
+0
+
+BFS
+A
+B
+
+1
+A B 12 0
+0
+
+DFS
+A
+B
+
+1
+A B 12 0
+0
+
+UCS
+A
+B
+
+1
+A B 12 0
+0
+
+BFS
+A
+B
+
+0
+0
+
+DFS
+A
+B
+
+0
+0
+
+DFS
+A
+B
+
+0
+0
+
+BFS
+S
+G1 G2 G3
+A D B C E F
+14
+S A 3 0
+S B 1 0
+S C 5 0
+A G1 10 0
+A E 7 0
+E G1 2 0
+D G2 5 0
+D B 4 0
+B C 2 0
+B F 2 0
+F D 1 0
+C G3 11 0
+G3 F 0 0
+D S 6 0
+0
+
+DFS
+S
+G1 G2 G3
+A D B C E F
+14
+S A 3 0
+S B 1 0
+S C 5 0
+A G1 10 0
+A E 7 0
+E G1 2 0
+D G2 5 0
+D B 4 0
+B C 2 0
+B F 2 0
+F D 1 0
+C G3 11 0
+G3 F 0 0
+D S 6 0
+0
+
+UCS
+S
+G1 G2 G3
+A D B C E F
+14
+S A 3 0
+S B 1 0
+S C 5 0
+A G1 10 0
+A E 7 0
+E G1 2 0
+D G2 5 0
+D B 4 0
+B C 2 0
+B F 2 0
+F D 1 0
+C G3 11 0
+G3 F 0 0
+D S 6 0
+0
+
+UCS
+S
+G1 G2 G3
+A D B C E F
+14
+S A 3 0
+S B 1 0
+S C 5 0
+A G1 10 0
+A E 7 0
+E G1 2 0
+D G2 5 0
+D B 4 0
+B C 2 0
+B F 2 0
+F D 1 1 1-3
+C G3 11 0
+G3 F 0 0
+D S 6 0
+0
+
+UCS
+S
+G1 G2 G3
+A D B C E F
+14
+S A 3 0
+S B 1 0
+S C 5 0
+A G1 10 0
+A E 7 0
+E G1 2 1 10-12
+D G2 5 0
+D B 4 0
+B C 2 0
+B F 2 0
+F D 1 1 1-3
+C G3 11 0
+G3 F 0 0
+D S 6 0
+0
+
+UCS
+S
+G1 G2 G3
+A D B C E F
+14
+S A 3 0
+S B 1 0
+S C 5 0
+A G1 10 1 3-13
+A E 7 0
+E G1 2 1 10-12
+D G2 5 0
+D B 4 0
+B C 2 0
+B F 2 0
+F D 1 1 1-3
+C G3 11 0
+G3 F 0 0
+D S 6 0
+0
+
+UCS
+S
+G1 G2 G3
+A D B C E F
+14
+S A 3 0
+S B 1 0
+S C 5 0
+A G1 10 1 3-13
+A E 7 0
+E G1 2 1 10-12
+D G2 5 0
+D B 4 0
+B C 2 1 0-1
+B F 2 0
+F D 1 1 1-3
+C G3 11 0
+G3 F 0 0
+D S 6 0
+0
+
+UCS
+S
+G1 G2 G3
+A D B C E F
+14
+S A 3 0
+S B 1 0
+S C 5 2 3-5 0-5
+A G1 10 1 3-13
+A E 7 0
+E G1 2 1 10-12
+D G2 5 0
+D B 4 0
+B C 2 1 0-1
+B F 2 0
+F D 1 1 1-3
+C G3 11 0
+G3 F 0 0
+D S 6 0
+0
+
+UCS
+S
+G1 G2 G3
+A D B C E F H I
+15
+S A 7 0
+S B 5 0
+S C 1 0
+C D 1 0
+D B 1 0
+B G3 3 0
+B H 4 0
+H G3 4 0
+B A 9 0
+A F 9 0
+A E 8 0
+F G2 2 0
+G2 I 0 0
+E G1 9 0
+I G1 2 0
+0
+
+BFS
+S
+G1 G2 G3
+A D B C E F H I
+15
+S A 7 0
+S B 5 0
+S C 1 0
+C D 1 0
+D B 1 0
+B G3 3 0
+B H 4 0
+H G3 4 0
+B A 9 0
+A F 9 0
+A E 8 0
+F G2 2 0
+G2 I 0 0
+E G1 9 0
+I G1 2 0
+0
+
+DFS
+S
+G1 G2 G3
+A D B C E F H I
+15
+S A 7 0
+S B 5 0
+S C 1 0
+C D 1 0
+D B 1 0
+B G3 3 0
+B H 4 0
+H G3 4 0
+B A 9 0
+A F 9 0
+A E 8 0
+F G2 2 0
+G2 I 0 0
+E G1 9 0
+I G1 2 0
+0
+
+UCS
+S
+G1 G2 G3
+A D B C E F H I
+15
+S A 700 0
+S B 500 0
+S C 100 0
+C D 100 0
+D B 100 0
+B G3 300 0
+B H 400 0
+H G3 400 0
+B A 900 0
+A F 900 0
+A E 800 0
+F G2 200 0
+G2 I 0 0
+E G1 900 0
+I G1 200 0
+0
+
+UCS
+S
+G1 G2 G3
+A D B C E F H I
+15
+S A 700 0
+S B 500 0
+S C 100 0
+C D 100 0
+D B 100 0
+B G3 300 1 12-16
+B H 400 0
+H G3 400 0
+B A 900 0
+A F 900 0
+A E 800 0
+F G2 200 0
+G2 I 0 0
+E G1 900 0
+I G1 200 0
+0
+
+UCS
+S
+G1 G2 G3
+A D B C E F H I
+15
+S A 700 0
+S B 500 0
+S C 100 0
+C D 100 0
+D B 100 0
+B G3 300 1 12-16
+B H 400 0
+H G3 400 1 3-4
+B A 900 0
+A F 900 0
+A E 800 0
+F G2 200 0
+G2 I 0 0
+E G1 900 0
+I G1 200 0
+0
+
+DFS
+S
+G1 G2 G3
+A D B C E F H I
+14
+S A 7 0
+S B 5 0
+S C 1 0
+C D 1 0
+D B 1 0
+B G3 3 0
+B H 4 0
+H I 4 0
+B A 9 0
+A F 9 0
+F G2 2 0
+I G2 0 0
+E G1 9 0
+I G1 2 0
+0
+
+DFS
+S
+G1 G2 G3
+A D B C E F H I
+12
+S A 7 0
+S C 1 0
+C D 1 0
+D B 1 0
+B G3 3 0
+B H 4 0
+H I 4 0
+B A 9 0
+F G2 2 0
+I G2 0 0
+E G1 9 0
+I G1 2 0
+0
+
+DFS
+S
+G1 G2 G3
+A D B C E F H I
+11
+S A 7 0
+S C 1 0
+C D 1 0
+D B 1 0
+B H 4 0
+H I 4 0
+B A 9 0
+F G2 2 0
+I G2 0 0
+E G1 9 0
+I G1 2 0
+0
+
+DFS
+A1
+A6
+A2 A3 A4 A5
+8
+A1 A2 0 0
+A1 A3 0 0
+A2 A3 0 0
+A2 A4 0 0
+A3 A4 0 0
+A4 A5 0 0
+A4 A6 0 0
+A5 A6 0 0
+0
+
+BFS
+A1
+A6
+A2 A3 A4 A5
+8
+A1 A2 0 0
+A1 A3 0 0
+A2 A3 0 0
+A2 A4 0 0
+A3 A4 0 0
+A4 A5 0 0
+A4 A6 0 0
+A5 A6 0 0
+0
+
+BFS
+A1
+A6
+A2 A3 A4 A5
+9
+A1 A2 0 0
+A1 A3 0 0
+A2 A3 0 0
+A2 A4 0 0
+A3 A4 0 0
+A4 A5 0 0
+A4 A6 0 0
+A5 A6 0 0
+A3 A5 0 0
+5
+
+UCS
+A
+D
+B C
+3
+A B 1 0
+B C 1 2 0-1 2-3
+C D 1 0
+0
+
+UCS
+S
+G
+A B
+4
+S A 2 0
+S B 1 0
+B G 1 1 1-2
+A B 2 0
+0
+
+UCS
+S
+G
+A B C D
+8
+S A 1 0
+S G 12 0
+A C 1 0
+A B 3 0
+C D 1 0
+B D 3 0
+D G 3 0
+C G 2 0
+0
+
+UCS
+S
+G
+A B C D
+8
+S A 1 0
+S G 12 0
+A C 1 0
+A B 3 0
+C D 1 0
+B D 3 0
+D G 3 0
+C G 2 1 1-2
+0
+
+DFS
+S
+G
+A B C D
+8
+S A 1 0
+S G 12 0
+A C 1 0
+A B 3 0
+C D 1 0
+B D 3 0
+D G 3 0
+C G 2 1 1-2
+0
+
+UCS
+S
+Z
+A B C D E F G
+14
+S C 3 0
+S E 2 0
+S F 1 0
+E C 5 0
+C A 1 0
+A B 3 0
+C B 3 0
+F D 4 0
+D G 4 0
+G Z 1 0
+B Z 7 0
+B F 5 0
+B D 2 0
+B G 3 0
+0
+
+BFS
+S
+Z
+A B C D E F G
+14
+S C 3 0
+S E 2 0
+S F 1 0
+E C 5 0
+C A 1 0
+A B 3 0
+C B 3 0
+F D 4 0
+D G 4 0
+G Z 1 0
+B Z 7 0
+B F 5 0
+B D 2 0
+B G 3 0
+0
+
+DFS
+S
+Z
+A B C D E F G
+14
+S C 3 0
+S E 2 0
+S F 1 0
+E C 5 0
+C A 1 0
+A B 3 0
+C B 3 0
+F D 4 0
+D G 4 0
+G Z 1 0
+B Z 7 0
+B F 5 0
+B D 2 0
+B G 3 0
+0
+
+UCS
+S
+Z
+A B C D E F G
+14
+S C 4 0
+S E 2 0
+S F 3 0
+E C 1 0
+C A 10 0
+A B 3 0
+C B 30 0
+F D 4 0
+D G 4 0
+G Z 1 0
+B Z 7 0
+B F 5 0
+B D 2 0
+B G 3 0
+0
+
+UCS
+S
+Z
+A B C D E F G
+14
+S C 4 0
+S E 2 0
+S F 3 0
+E C 1 0
+C A 10 0
+A B 3 0
+C B 30 0
+F D 4 3 1-2 3-6 2-3
+D G 4 0
+G Z 1 0
+B Z 7 0
+B F 5 0
+B D 2 0
+B G 3 0
+0
+
+UCS
+S
+Z
+A B C D E F G
+14
+S C 4 0
+S E 2 0
+S F 3 0
+E C 1 0
+C A 10 0
+A B 3 0
+C B 30 1 1-3
+F D 4 3 1-2 3-6 2-3
+D G 4 0
+G Z 1 0
+B Z 7 0
+B F 5 0
+B D 2 0
+B G 3 1 0-23
+0
+
+UCS
+S
+Z
+A B C D E F G
+14
+S C 4 0
+S E 2 0
+S F 3 0
+E C 1 0
+C A 10 0
+A B 3 0
+C B 30 1 1-3
+F D 4 3 1-2 3-6 2-3
+D G 4 1 0-23
+G Z 1 0
+B Z 7 1 0-23
+B F 5 0
+B D 2 0
+B G 3 1 0-23
+0
+
+UCS
+A
+C
+B D
+4
+A B 1 0
+A D 2 0
+D B 3 0
+B C 2 0 0
+0
+
+UCS
+A
+C
+B D
+4
+A B 1 0
+A D 2 0
+D B 3 0
+B C 2 1 0-3
+0
+
+BFS
+A
+B
+O C S R F P
+11
+A O 146 0
+A C 494 0
+A S 140 0
+O S 151 0
+S R 80 0
+S F 99 0
+C R 146 0
+C P 138 0
+R P 97 0
+F B 211 0
+P B 101 0
+0
+
+UCS
+A
+B
+O C S R F P
+11
+A O 146 0
+A C 494 0
+A S 140 0
+O S 151 0
+S R 80 0
+S F 99 0
+C R 146 0
+C P 138 0
+R P 97 0
+F B 211 0
+P B 101 0
+0
+
+DFS
+A
+B
+O C S R F P
+11
+A O 146 0
+A C 494 0
+A S 140 0
+O S 151 0
+S R 80 0
+S F 99 0
+C R 146 0
+C P 138 0
+R P 97 0
+F B 211 0
+P B 101 0
+0
+
+UCS
+A
+B
+O C S R F P
+11
+A O 146 0
+A C 494 0
+A S 140 0
+O S 151 0
+S R 80 1 0-23
+S F 99 0
+C R 146 0
+C P 138 0
+R P 97 0
+F B 211 0
+P B 101 0
+0
+
+UCS
+A
+B
+O C S R F P
+11
+A O 146 0
+A C 494 0
+A S 140 0
+O S 151 0
+S R 80 0
+S F 99 0
+C R 146 0
+C P 138 0
+R P 97 5 1-3 4-6 8-10 11-15 16-20
+F B 211 1 0-23
+P B 101 5 0-2 3-5 5-8 9-18 19-23
+0
+
+UCS
+A
+B
+O C S R F P
+11
+A O 146 0
+A C 494 0
+A S 140 0
+O S 151 0
+S R 80 0
+S F 99 0
+C R 146 0
+C P 138 0
+R P 97 0
+F B 211 1 0-23
+P B 101 0
+0
+
+UCS
+A
+B
+O C S R F P
+12
+A O 146 0
+A C 494 0
+A S 140 0
+O S 151 0
+S R 80 0
+S F 99 0
+C R 146 0
+C P 138 0
+R P 97 0
+F B 211 1 0-23
+P B 101 0
+S B 100 0
+0
+
+UCS
+A
+B
+O C S R F P
+11
+A O 146 0
+A C 494 0
+A S 140 0
+O S 151 0
+S R 80 3 0-6 5-7 19-20
+S F 99 0
+C R 146 0
+C P 138 0
+R P 97 0
+F B 211 1 0-23
+P B 101 0
+0
+
+BFS
+A
+B
+O C S R F P
+12
+A O 146 0
+A C 494 0
+A S 140 0
+O S 151 0
+S R 80 1 0-23
+S F 99 0
+C R 146 0
+C P 138 0
+R P 97 0
+F B 211 0
+P B 101 0
+S B 878 0
+0
+
+DFS
+A
+B
+O C S R F P
+12
+A O 146 0
+A C 494 0
+A S 140 0
+O S 151 0
+S R 80 1 0-23
+S F 99 0
+C R 146 0
+C P 138 0
+R P 97 0
+F B 211 0
+P B 101 0
+S B 878 0
+0
+
+DFS
+A
+B
+O C S R F P
+10
+A O 146 0
+A S 140 0
+O S 151 0
+S R 80 1 0-23
+S F 99 0
+C R 146 0
+C P 138 0
+R P 97 0
+F B 211 0
+P B 101 0
+0
+
+DFS
+V
+E F
+A B C D
+11
+V A 5 0
+V B 8 0
+A B 2 0
+A C 12 0
+B D 6 0
+B E 10 0
+D C 3 0
+C F 5 0
+D E 2 0
+D F 12 0
+F E 7 0
+0
+
+BFS
+V
+E F
+A B C D
+11
+V A 5 0
+V B 8 0
+A B 2 0
+A C 12 0
+B D 6 0
+B E 10 0
+D C 3 0
+C F 5 0
+D E 2 0
+D F 12 0
+F E 7 0
+0
+
+UCS
+V
+E F
+A B C D
+11
+V A 5 0
+V B 8 0
+A B 2 0
+A C 12 0
+B D 6 0
+B E 10 0
+D C 3 0
+C F 5 0
+D E 2 0
+D F 12 0
+F E 7 0
+0
+
+UCS
+V
+E F
+A B C D
+11
+V A 5 0
+V B 8 0
+A B 2 0
+A C 12 0
+B D 6 0
+B E 10 2 0-4 4-8
+D C 3 0
+C F 5 0
+D E 2 2 1-7 6-15
+D F 12 0
+F E 7 0
+0
+
+UCS
+V
+E F
+A B C D
+11
+V A 5 0
+V B 8 0
+A B 2 0
+A C 12 0
+B D 6 0
+B E 10 2 0-4 4-8
+D C 3 0
+C F 5 2 5-7 11-16
+D E 2 2 1-7 6-15
+D F 12 0
+F E 7 0
+0
+
+BFS
+APPLE
+JACK
+BULB BANANA GRAPE GARDEN ORANGE BERRY MANGO
+11
+APPLE BULB 4 0
+APPLE BANANA 5 0
+BULB BANANA 3 0
+BULB GRAPE 5 0
+BULB GARDEN 1 0
+BANANA ORANGE 2 0
+GARDEN BERRY 3 0
+ORANGE MANGO 4 0
+MANGO BERRY 3 0
+BERRY JACK 1 0
+MANGO JACK 2 0
+0
+
+DFS
+APPLE
+JACK
+BULB BANANA GRAPE GARDEN ORANGE BERRY MANGO
+12
+APPLE BULB 4 0
+APPLE BANANA 5 0
+BULB BANANA 3 0
+BULB GRAPE 5 0
+BULB GARDEN 1 0
+BANANA ORANGE 2 0
+GARDEN BERRY 3 0
+ORANGE MANGO 4 0
+MANGO BERRY 3 0
+BERRY JACK 1 0
+MANGO JACK 2 0
+ORANGE JACK 4 0
+0
+
+UCS
+APPLE
+JACK
+BULB BANANA GRAPE GARDEN ORANGE BERRY MANGO
+12
+APPLE BULB 4 0
+APPLE BANANA 5 0
+BULB BANANA 3 0
+BULB GRAPE 5 0
+BULB GARDEN 1 0
+BANANA ORANGE 2 0
+GARDEN BERRY 3 0
+ORANGE MANGO 4 0
+MANGO BERRY 3 0
+BERRY JACK 1 0
+MANGO JACK 2 0
+ORANGE JACK 4 0
+0
+
+UCS
+APPLE
+JACK 
+BULB BANANA GRAPE GARDEN ORANGE BERRY MANGO
+12
+APPLE BULB 4 1 0-6
+APPLE BANANA 5 0
+BULB BANANA 3 0
+BULB GRAPE 5 0
+BULB GARDEN 1 0
+BANANA ORANGE 2 0
+GARDEN BERRY 3 0
+ORANGE MANGO 4 0
+MANGO BERRY 3 0
+BERRY JACK 1 0
+MANGO JACK 2 0
+ORANGE JACK 4 0
+0
+
+UCS
+APPLE
+JACK
+BULB BANANA GRAPE GARDEN ORANGE BERRY MANGO
+11
+APPLE BULB 4 1 0-6
+APPLE BANANA 5 0
+BULB BANANA 3 0
+BULB GRAPE 5 0
+BULB GARDEN 1 0
+BANANA ORANGE 2 0
+GARDEN BERRY 3 0
+ORANGE MANGO 4 0
+MANGO BERRY 3 0
+BERRY JACK 1 1 5-8
+MANGO JACK 2 0
+0
+
+UCS
+APPLE
+JACK BERRY
+BULB BANANA GRAPE GARDEN ORANGE BERRY MANGO
+11
+APPLE BULB 4 0
+APPLE BANANA 5 0
+BULB BANANA 3 0
+BULB GRAPE 5 0
+BULB GARDEN 1 0
+BANANA ORANGE 2 0
+GARDEN BERRY 3 0
+ORANGE MANGO 4 0
+MANGO BERRY 3 0
+BERRY JACK 1 1 5-8
+MANGO JACK 2 0
+0
+
+BFS
+APPLE
+JACK BERRY
+BULB BANANA GRAPE GARDEN ORANGE BERRY MANGO
+11
+APPLE BULB 4 1 0-6
+APPLE BANANA 5 0
+BULB BANANA 3 0
+BULB GRAPE 5 0
+BULB GARDEN 1 0
+BANANA ORANGE 2 0
+GARDEN BERRY 3 0
+ORANGE MANGO 4 0
+MANGO BERRY 3 0
+BERRY JACK 1 1 5-8
+MANGO JACK 2 0
+0
+
+DFS
+APPLE
+JACK BERRY
+BULB BANANA GRAPE GARDEN ORANGE BERRY MANGO
+11
+APPLE BULB 4 1 0-6
+APPLE BANANA 5 0
+BULB BANANA 3 0
+BULB GRAPE 5 0
+BULB GARDEN 1 0
+BANANA ORANGE 2 0
+GARDEN BERRY 3 0
+ORANGE MANGO 4 0
+MANGO BERRY 3 0
+BERRY JACK 1 1 5-8
+MANGO JACK 2 0
+0
+
+DFS
+H1
+H6 H9
+H2 H3 H4 H5 H7 H8 H10
+17
+H1 H10 45 0
+H1 H2 20 0
+H1 H3 45 0
+H10 H2 30 0
+H3 H2 30 0
+H10 H8 50 0
+H2 H8 100 0
+H2 H5 25 0
+H3 H4 45 0
+H5 H4 75 0
+H8 H5 90 0
+H8 H7 15 0
+H7 H6 80 0
+H8 H9 45 0
+H6 H9 40 0
+H5 H6 75 0
+H4 H6 40 0
+0
+
+BFS
+H1
+H6 H9
+H2 H3 H4 H5 H7 H8 H10
+17
+H1 H10 45 0
+H1 H2 20 0
+H1 H3 45 0
+H10 H2 30 0
+H3 H2 30 0
+H10 H8 50 0
+H2 H8 100 0
+H2 H5 25 0
+H3 H4 45 0
+H5 H4 75 0
+H8 H5 90 0
+H8 H7 15 0
+H7 H6 80 0
+H8 H9 45 0
+H6 H9 40 0
+H5 H6 75 0
+H4 H6 40 0
+0
+
+UCS
+H1
+H6 H9
+H2 H3 H4 H5 H7 H8 H10
+17
+H1 H10 45 0
+H1 H2 20 0
+H1 H3 45 0
+H10 H2 30 0
+H3 H2 30 0
+H10 H8 50 0
+H2 H8 100 0
+H2 H5 25 0
+H3 H4 45 0
+H5 H4 75 0
+H8 H5 90 0
+H8 H7 15 0
+H7 H6 80 0
+H8 H9 45 0
+H6 H9 40 0
+H5 H6 75 0
+H4 H6 40 0
+0
+
+UCS
+H1
+H6 H9
+H2 H3 H4 H5 H7 H8 H10
+17
+H1 H10 45 0
+H1 H2 20 0
+H1 H3 45 0
+H10 H2 30 0
+H3 H2 30 0
+H10 H8 50 0
+H2 H8 100 0
+H2 H5 25 0
+H3 H4 45 0
+H5 H4 75 0
+H8 H5 90 0
+H8 H7 15 0
+H7 H6 80 0
+H8 H9 45 0
+H6 H9 40 0
+H5 H6 75 1 0-23
+H4 H6 40 0
+0
+
+UCS
+H1
+H6 H9
+H2 H3 H4 H5 H7 H8 H10
+17
+H1 H10 45 0
+H1 H2 20 0
+H1 H3 45 0
+H10 H2 30 0
+H3 H2 30 0
+H10 H8 50 0
+H2 H8 100 0
+H2 H5 25 0
+H3 H4 45 0
+H5 H4 75 0
+H8 H5 90 0
+H8 H7 15 0
+H7 H6 80 0
+H8 H9 45 0
+H6 H9 40 0
+H5 H6 75 1 0-23
+H4 H6 40 1 18-23
+0
+
+UCS
+H1
+H6 H9
+H2 H3 H4 H5 H7 H8 H10
+17
+H1 H10 45 0
+H1 H2 20 0
+H1 H3 45 0
+H10 H2 30 0
+H3 H2 30 0
+H10 H8 50 0
+H2 H8 100 0
+H2 H5 25 0
+H3 H4 45 0
+H5 H4 75 0
+H8 H5 90 0
+H8 H7 15 0
+H7 H6 80 0
+H8 H9 45 1 0-23
+H6 H9 40 2 1-8 8-10
+H5 H6 75 1 0-23
+H4 H6 40 1 18-23
+0
+
+UCS
+H1
+H6 H9
+H2 H3 H4 H5 H7 H8 H10
+17
+H1 H10 45 0
+H1 H2 20 0
+H1 H3 45 0
+H10 H2 30 0
+H3 H2 30 0
+H10 H8 50 0
+H2 H8 100 0
+H2 H5 25 0
+H3 H4 45 0
+H5 H4 75 0
+H8 H5 90 0
+H8 H7 15 0
+H7 H6 80 0
+H8 H9 45 1 0-23
+H6 H9 40 2 1-8 8-10
+H5 H6 75 1 0-23
+H4 H6 40 1 18-23
+6
+
+BFS
+A
+G
+B C D E
+7
+A B 1 0
+A G 1 0
+A C 1 0
+B D 1 0
+C E 1 0
+E G 1 0
+D G 1 0
+0
+
+BFS
+A
+Z
+B C
+5
+A B 1 0
+A C 1 0
+B C 1 0
+C Z 1 0
+Z B 1 0
+0
+
+BFS
+A
+D E
+B C
+6
+A B 1 0
+A C 1 0
+C D 1 0
+B E 1 0
+C E 1 0
+B D 1 0
+23
+
+BFS
+A
+C
+B D E
+8
+A B 1 0
+A D 1 0
+B D 1 0
+B C 1 0
+D C 1 0
+D A 1 0
+D E 1 0
+A E 1 0
+21
+
+BFS
+A
+F
+B C D E I
+6
+A B 1 0
+B C 1 0
+C E 1 0
+E D 1 0
+D B 1 0
+I F 1 0
+0
+
+BFS
+S
+G1 G2 G3
+AA AB
+6
+S AA 1 0
+S AB 1 0
+AA G1 1 0
+AB G2 1 0
+AA G3 1 0
+AB G3 1 0
+0
+
+BFS
+A
+B C D
+E F G H I
+5
+A B 12 0
+A E 3 3 2-4 1-5 9-10
+E H 2 1 1-2
+H D 5 2 5-6 2-3
+I C 6 1 10-14
+3
+
+UCS
+A
+AA
+B D
+4
+A B 1 0
+B AA 1 0
+B D 3 0
+D A 4 0
+0
+
+UCS
+S
+G
+A B
+4
+S A 1 0
+S B 2 0
+B A 2 0
+A G 1 1 1-2
+0
+
+BFS
+India
+USA Canada
+Pakistan London Dubai Singapore Korea
+15
+India Pakistan 3 0
+Pakistan London 7 3 2-4 1-5 9-10
+India London 8 1 1-2
+Dubai London 5 2 5-6 2-3
+India Dubai 1 1 10-14
+Pakistan Dubai 1 0
+London USA 11 0
+Dubai USA 16 0
+Pakistan Singapore 8 3 2-4 1-5 9-10
+India Singapore 7 1 1-2
+Singapore Korea 3 0
+Singapore USA 16 0
+Korea USA 16 0
+USA Canada 1 0
+London Canada 12 0
+0
+
+BFS
+P
+Q R
+L M N O
+5
+P L 10 0
+P N 5 2 3-4 6-9
+M Q 8 1 4-6
+O R 3 0
+N M 5 1 1-2
+5
+
+BFS
+A
+I
+C D B E F G H
+5
+A B 12 0
+A E 3 3 2-4 1-5 9-10
+E H 2 1 1-2
+H I 5 2 5-6 2-3
+I C 6 1 10-14
+3
+
+DFS
+P
+Q R
+L M N O
+5
+P L 10 0
+P N 5 2 3-4 6-9
+M Q 8 1 4-6
+O R 3 0
+N M 5 1 1-2
+5
+
+DFS
+AA
+BA
+CA DA
+3
+AA BA 10 1 1-2
+AA CA 2 2 3-4 5-6
+CA BA 4 0
+0
+
+DFS
+AB
+GB
+CB DB FB DB BB EB
+6
+AB BB 1 0
+AB CB 1 0
+AB DB 1 0
+BB EB 1 0
+BB FB 1 0
+FB GB 1 0
+0
+
+DFS
+E
+H
+A D B C
+9
+A E 1 0
+A B 1 0
+D C 1 0
+A C 1 0
+A D 1 0
+B D 1 0
+B C 1 0
+B H 1 0
+D E 1 0
+0
+
+BFS
+G
+A
+H D C E B
+9
+A B 1 0
+G D 2 0
+H D 1 0
+C H 1 0
+C A 9 0
+D E 10 0
+E G 2 0
+D C 10 0
+B E 2 0
+0
+
+UCS
+S
+G
+A B
+4
+S A 2 0
+S B 7 0
+A B 1 0
+B G 1 0
+0
+
+DFS
+A
+B C D
+E F G H I
+7
+A H 12 0
+A G 10 0
+A E 3 3 2-4 1-5 9-10
+E H 2 1 1-2
+H D 5 2 5-6 2-3
+G D 4 0
+H C 6 1 10-14
+3
+
+BFS
+P
+Q R
+L M N O
+5
+P L 10 0
+P N 5 2 3-4 6-9
+M Q 8 1 4-6
+O R 3 0
+N M 5 1 1-2
+5
+
+UCS
+AA
+BA
+CA DA
+3
+AA BA 10 1 1-2
+AA CA 2 2 3-4 5-6
+CA BA 4 0
+0
+
+UCS
+AA
+BA
+CA DA
+3
+AA BA 10 1 1-2
+AA CA 2 2 3-4 5-6
+CA BA 4 1 2-3
+0
+
+BFS
+G
+A
+H D C E B
+9
+A B 1 0
+G D 2 0
+H D 1 0
+C H 1 0
+C A 9 0
+D E 10 0
+E G 2 0
+D C 10 0
+B E 2 0
+0
+
+UCS
+A
+C D
+B
+4
+A B 5 0
+A D 11 0
+B D 2 1 5-7
+B C 5 0
+0
+
+UCS
+S
+G
+A B
+4
+S A 2 1 1-2
+S B 1 2 3-4 5-6
+A B 2 0
+B G 1 0
+0
+
+UCS
+S
+G
+A B
+4
+S A 2 0
+S B 7 0
+A B 1 0
+B G 1 1 1-2
+0
+
+UCS
+A
+D
+B C
+4
+A B 2 0
+A C 23 0
+B C 23 0
+C D 2 1 0-2
+2
+
+DFS
+A
+D
+B C
+5
+A B 10 0
+A C 10 0
+A D 10 0
+B C 10 0
+C D 10 0
+0
+
+UCS
+A
+C
+B D
+4
+A B 1 0
+B C 2 1 0-3
+A D 2 0
+D B 3 0
+0
+
+UCS
+A
+D
+B C
+4
+A B 22 0
+A C 15 0
+C D 3 0
+B C 2 0
+4
+
+BFS
+A
+G
+B C
+4
+A B 1 1 3-4
+B C 1 0
+A C 2 0
+C G 6 0
+3
+
+DFS
+A
+G
+B C
+4
+A B 1 1 3-4
+B C 1 0
+A C 2 0
+C G 6 0
+3
+
+UCS
+A
+G
+B C
+4
+A B 1 1 3-4
+B C 1 0
+A C 2 0
+C G 6 0
+3
+
+UCS
+S
+G1 G2
+A B C D
+8
+S A 2 0
+S B 5 0
+S C 4 0
+S D 3 0
+B A 2 0
+A G1 3 1 2-5
+B G1 4 0
+C G2 6 0
+0
+
+DFS
+A 
+G
+B C D E F H I
+7
+A B 12 0
+A C 6 0
+B D 5 0
+B E 6 0
+C F 77 0
+C G 87 0
+D H 78 0
+0
+
+DFS
+A
+G
+B C D
+7
+A B 1 0
+A C 1 0
+A D 1 0 
+C G 1 0
+D G 1 0
+A D 1 0
+D G 1 0
+0
+
+BFS
+A
+F
+B C D G
+5
+A B 1 0
+A C 1 0
+A D 1 0
+D G 1 0
+G F 1 0
+0
+
+DFS
+A
+F
+B C D G
+5
+A B 1 0
+A C 1 0
+A D 1 0
+D G 1 0
+G F 1 0
+0
+
+UCS
+S
+G
+A B
+4
+S A 2 0
+A B 2 0
+S B 1 0
+B G 1 1 1-2
+0
+
+UCS
+S
+G 
+A B E D 
+6
+S A 2 0
+S B 1 0
+B G 1 1 1-3
+E G 2 0
+B E 100 0
+A B 2 0
+0
+
+UCS
+A
+C
+B D
+4
+A B 1 0
+B C 2 1 0-3
+A D 2 0
+D B 3 0
+0
+
+BFS
+A
+B C D
+E F G H I
+5
+A B 12 0
+A E 3 3 2-4 1-5 9-10
+E H 2 1 1-2
+H D 5 2 5-6 2-3
+I C 6 1 10-14
+3
+
+DFS
+P
+Q R
+L M N O
+5
+P L 10 0
+P N 5 2 3-4 6-9
+M Q 8 1 4-6
+O R 3 0
+N M 5 1 1-2
+5
+
+UCS
+AA
+BA
+CA DA
+3
+AA BA 10 1 1-2
+AA CA 2 2 3-4 5-6
+CA BA 4 0
+0
+
+DFS
+A
+C
+B
+3
+A B 1 0
+B C 1 0
+A C 1 0
+0
+
+UCS
+S
+G
+A B
+4
+S A 2 0
+A B 2 0
+S B 1 0
+B G 1 1 1-2
+0
+
+DFS
+S
+C
+A B 
+5
+S A 1 0
+S B 1 0
+S C 1 0
+A B 1 0
+B C 1 0
+0
+
+DFS
+A
+B
+C
+3
+A B 1 1 1-2 0-6
+A C 1 1 1-5 3-9
+B C 17 3 1-8 2-9 22-24
+0
+
+BFS
+A
+F
+B C D G
+5
+A B 1 0
+G F 1 0
+A C 1 0
+A D 1 0
+D G 1 0
+23
+
+DFS
+A
+F
+B C D G
+5
+G F 1 0
+A C 1 0
+A D 1 0
+D G 1 0
+A B 1 0
+23
+
+DFS
+A
+F
+B C D G
+6
+G F 1 0
+A C 1 0
+A D 1 0
+D G 1 0
+C D 1 0
+A B 1 0
+23
+
+UCS
+A
+D
+B C
+4
+A B 2 0
+B C 1 0
+A C 3 0
+B D 1 1 1-4
+0
+
+UCS
+A
+D
+B C
+3
+A B 2 0
+A C 3 0
+B D 1 1 1-4
+0
+
+UCS
+A
+D F
+B C E
+5
+A B 2 0
+A C 3 0
+B D 2 2 0-4 1-5
+C E 2 2 22-23 1-2
+E F 1 0 
+22
+
+UCS
+A
+D F
+B C E
+5
+A B 2 0
+A C 3 0
+B D 2 2 0-4 1-5
+C E 3 3 22-23 1-2 0-6
+E F 1 0 
+22
+
+UCS
+A
+D F
+B C E
+5
+A B 2 0
+A C 3 0
+B D 2 2 0-4 1-5
+C E 3 3 22-23 1-2 0-6
+E F 1 0 
+22
+
+UCS
+A
+D
+B C 
+5
+A B 2 1 0-4
+A C 5 1 22-23
+C B 3 1 20-21
+B D 2 0
+C D 4 0
+0
+
+UCS
+A
+E 
+B D
+5
+A B 52 0 
+A D 26 0 
+A E 108 0
+B E 13 0
+D E 112 0 
+22
+
+DFS
+A
+F
+B C D
+6
+A B 1 0
+A C 12 0
+A D 11 0
+B C 1 0
+C D 1 0
+B F 1 0
+0
+
+DFS
+A 
+G
+Z B C D
+6
+A Z 1 0
+Z G 1 0
+A B 1 0
+B C 1 0
+C D 1 0
+D G 1 0
+0
+
+DFS
+A
+G
+H
+1
+H G 1 0
+0
+
+BFS
+A 
+G
+H
+1
+H G 1 0
+0
+
+UCS
+A
+G
+H
+1
+H G 1 0
+0
+
+BFS
+A
+G
+
+1
+A G 1 0
+0
+
+DFS
+A
+C D
+E G H
+7
+A E 1 0
+A G 1 0
+A H 1 0
+E H 1 0
+G D 1 0
+H D 1 0
+H C 1 0
+0
+
+UCS
+S
+G
+A B
+4
+S A 1 0
+S B 2 0
+B A 2 0
+A G 1 1 1-2
+0
+
+BFS
+India
+USA Canada
+Pakistan London Dubai Singapore Korea
+15
+India Pakistan 3 0
+Pakistan London 7 3 2-4 1-5 9-10
+India London 8 1 1-2
+Dubai London 5 2 5-6 2-3
+India Dubai 1 1 10-14
+Pakistan Dubai 1 0
+London USA 11 0
+Dubai USA 16 0
+Pakistan Singapore 8 3 2-4 1-5 9-10
+India Singapore 7 1 1-2
+Singapore Korea 3 0
+Singapore USA 16 0
+Korea USA 16 0
+USA Canada 1 0
+London Canada 12 0
+0
+
+BFS
+P
+Q R
+L M N O
+5
+P L 10 0
+P N 5 2 3-4 6-9
+M Q 8 1 4-6
+O R 3 0
+N M 5 1 1-2
+5
+
+BFS
+A
+I
+C D B E F G H
+5
+A B 12 0
+A E 3 3 2-4 1-5 9-10
+E H 2 1 1-2
+H I 5 2 5-6 2-3
+I C 6 1 10-14
+3
+
+DFS
+P
+Q R
+L M N O
+5
+P L 10 0
+P N 5 2 3-4 6-9
+M Q 8 1 4-6
+O R 3 0
+N M 5 1 1-2
+5
+
+DFS
+AA
+BA
+CA DA
+3
+AA BA 10 1 1-2
+AA CA 2 2 3-4 5-6
+CA BA 4 0
+0
+
+DFS
+AB
+GB
+CB DB FB DB BB EB
+6
+AB BB 1 0
+AB CB 1 0
+AB DB 1 0
+BB EB 1 0
+BB FB 1 0
+FB GB 1 0
+0
+
+DFS
+E
+H
+A D B C
+9
+A E 1 0
+A B 1 0
+D C 1 0
+A C 1 0
+A D 1 0
+B D 1 0
+B C 1 0
+B H 1 0
+D E 1 0
+0
+
+BFS
+G
+A
+H D C E B
+9
+A B 1 0
+G D 2 0
+H D 1 0
+C H 1 0
+C A 9 0
+D E 10 0
+E G 2 0
+D C 10 0
+B E 2 0
+0
+
+UCS
+S
+G
+A B
+4
+S A 2 0
+S B 7 0
+A B 1 0
+B G 1 0
+0
+
+DFS
+A
+B C D
+E F G H I
+7
+A H 12 0
+A G 10 0
+A E 3 3 2-4 1-5 9-10
+E H 2 1 1-2
+H D 5 2 5-6 2-3
+G D 4 0
+H C 6 1 10-14
+3
+
+BFS
+P
+Q R
+L M N O
+5
+P L 10 0
+P N 5 2 3-4 6-9
+M Q 8 1 4-6
+O R 3 0
+N M 5 1 1-2
+5
+
+UCS
+AA
+BA
+CA DA
+3
+AA BA 10 1 1-2
+AA CA 2 2 3-4 5-6
+CA BA 4 0
+0
+
+UCS
+AA
+BA
+CA DA
+3
+AA BA 10 1 1-2
+AA CA 2 2 3-4 5-6
+CA BA 4 1 2-3
+0
+
+BFS
+G
+A
+H D C E B
+9
+A B 1 0
+G D 2 0
+H D 1 0
+C H 1 0
+C A 9 0
+D E 10 0
+E G 2 0
+D C 10 0
+B E 2 0
+0
+
+UCS
+A
+C D
+B
+4
+A B 5 0
+A D 11 0
+B D 2 1 5-7
+B C 5 0
+0
+
+UCS
+S
+G
+A B
+4
+S A 2 1 1-2
+S B 1 2 3-4 5-6
+A B 2 0
+B G 1 0
+0
+
+UCS
+S
+G
+A B
+4
+S A 2 0
+S B 1 0
+A B 2 0
+B G 1 1 1-2
+0
+
+UCS
+A
+D
+C B
+4
+A C 23 1 1-2
+A B 2 0
+B D 14 0
+C D 1 1 1-2
+2
+
+UCS
+A
+D
+B C H
+7
+A B 1 0
+B C 1 0
+A C 1 0
+B D 1 1 1-2
+C D 1 1 1-2
+C H 1 1 1-3
+H D 1 1 1-2
+0
+
+UCS
+A
+D
+B C
+4
+A B 2 0
+A C 23 0
+B C 23 0
+C D 2 1 0-2
+2
+
+UCS
+A
+D
+B C
+4
+A B 22 0
+A C 15 0
+C D 3 0
+B C 2 0
+4
+
+UCS
+A
+D
+B C
+4
+A B 2 0
+A C 23 0
+B C 20 0
+C D 2 1 1-2
+2
+
+UCS
+S
+G
+A B C D E
+6
+S A 2 0
+S B 1 0
+B G 1 1 1-3
+E G 2 0
+B E 100 0
+A B 2 0
+0
+
+UCS
+A
+G
+B C D
+8
+A B 100 0
+A C 50 0
+A D 75 0
+B C 200 0
+C D 300 0
+D G 400 1 5-7
+C G 50 1 1-5
+B G 75 1 2-5
+0
